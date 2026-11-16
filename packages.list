@@ -46,6 +46,8 @@ sudo
 systemd
 systemd-udev
 tar
+tpm2-tools
+tpm2-tss
 tzdata
 util-linux
 vim-minimal

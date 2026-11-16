@@ -32,8 +32,8 @@ dbus-common-1.16.2-1.fc44
 device-mapper-1.02.212-2.fc44
 device-mapper-libs-1.02.212-2.fc44
 diffutils-3.12-5.fc44
-docker-ce-29.9.3-1.fc44
-docker-ce-cli-29.9.3-1.fc44
+docker-ce-29.10.0-1.fc44
+docker-ce-cli-29.10.0-1.fc44
 docker-compose-plugin-5.7.1-1.fc44
 dosfstools-4.2-18.fc44
 dracut-108-8.fc44
@@ -251,7 +251,9 @@ systemd-standalone-sysusers-259.10-1.fc44
 systemd-sysusers-259.10-1.fc44
 systemd-udev-259.10-1.fc44
 tar-1.35-9.fc44
+tpm2-tools-5.7-5.fc44
 tpm2-tss-4.1.5-1.fc44
+tpm2-tss-fapi-4.1.5-1.fc44
 tzdata-2026f-1.fc44
 util-linux-2.41.6-1.fc44
 util-linux-core-2.41.6-1.fc44
