@@ -94,7 +94,7 @@ vm-install: $(VM)/disk.qcow2 $(VM)/OVMF_VARS.qcow2
 	  -drive file=$(ISO),media=cdrom,if=none,id=cd0,readonly=on \
 	  -device ide-cd,drive=cd0,bootindex=0
 
-vm-run: $(VM)/disk.qcow2 $(VM)/OVMF_VARS.fd
+vm-run: $(VM)/disk.qcow2 $(VM)/OVMF_VARS.qcow2
 	$(QEMU) \
 	  -display none \
 	  -monitor none \
